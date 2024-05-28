@@ -1,0 +1,22 @@
+{
+  "name": "09_countdown_timer-by-wajid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.7",
+    "@types/ora": "^3.2.0",
+    "inquirer": "^9.2.22",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
